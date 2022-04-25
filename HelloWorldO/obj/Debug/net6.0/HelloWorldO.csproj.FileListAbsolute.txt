@@ -1,0 +1,15 @@
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\bin\Debug\net6.0\HelloWorldO.exe
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\bin\Debug\net6.0\HelloWorldO.deps.json
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\bin\Debug\net6.0\HelloWorldO.runtimeconfig.json
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\bin\Debug\net6.0\HelloWorldO.dll
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\bin\Debug\net6.0\HelloWorldO.pdb
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\obj\Debug\net6.0\HelloWorldO.csproj.AssemblyReference.cache
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\obj\Debug\net6.0\HelloWorldO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\obj\Debug\net6.0\HelloWorldO.AssemblyInfoInputs.cache
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\obj\Debug\net6.0\HelloWorldO.AssemblyInfo.cs
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\obj\Debug\net6.0\HelloWorldO.csproj.CoreCompileInputs.cache
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\obj\Debug\net6.0\HelloWorldO.dll
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\obj\Debug\net6.0\refint\HelloWorldO.dll
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\obj\Debug\net6.0\HelloWorldO.pdb
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\obj\Debug\net6.0\HelloWorldO.genruntimeconfig.cache
+C:\Users\nk321\OneDrive\Desktop\FellowDay1\HelloWorldO\obj\Debug\net6.0\ref\HelloWorldO.dll
